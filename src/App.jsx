@@ -64,7 +64,6 @@ function ParentNonParent() {
             </option>
             <option value="we don't know">we don't know has children</option>
           </select>
-          ,
         </label>
         <br />
         <div className="AndrewText">
