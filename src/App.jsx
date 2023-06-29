@@ -77,7 +77,17 @@ function ParentNonParent() {
           <strong>In this case the answer is:</strong> <br /> {resultText}
         </div>
       )}
+
+
+
+      <footer>
+        <p>&copy; Rafaela Umbelino 2023</p>
+      </footer>
+
+      
     </div>
+
+    
   );
 }
 

@@ -150,6 +150,10 @@ label {
   color: black;
 }
 
+p{
+  margin-top: 7vh;
+}
+
 /* .logo {
   height: 6em;
   padding: 1.5em;
